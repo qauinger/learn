@@ -67,12 +67,16 @@ body {
 }
 
 h1 {
-    font: bold 30px Sans-serif;
     color: var(--darkblue);
 }
 
-a {
-    font: italic 30px Sans-serif;
+h1, h2, h3, h4, h5, h6 {
+    font-family: Sans-serif;
+    color: var(--darkblue);
+}
+
+h1 {
+    font: bold 30px Sans-serif;
     color: var(--darkblue);
 }
 
